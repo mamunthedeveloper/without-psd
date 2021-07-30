@@ -1,0 +1,187 @@
+
+
+.d-flex{
+    margin-left: 450px;
+
+}
+
+.ban_text{
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 49%;
+    transform: translate(-50%,-50%);
+    z-index: 222;
+}
+.preloder{
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 9999;
+}
+.navbar-brand{
+    padding-right: 30px;
+}
+
+.ban_text h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(212, 10, 10);
+    font-family: 'Old Standard TT', serif;
+
+}
+.ban_text p{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(227, 1, 235);
+    font-family: 'Old Standard TT', serif;
+
+}
+/* about part */
+#about{
+    background-color: rgb(212, 210, 203);
+}
+.abt_head{
+    text-align: center;
+    padding: 30px 0;
+
+
+}
+.abt_head h1{
+    padding-bottom: 20px;
+    font-family: 'Old Standard TT', serif;
+    font-size: 50px;
+    font-weight: 700;
+}
+.abt_head p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(37, 37, 37);
+    font-family: 'Old Standard TT', serif;
+
+}
+.col-md-4 img{
+    width: 100%;
+}
+.col-md-4 img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.card-body:hover{
+   transform: scaleY(1.2);
+   transition: 0.5s;
+
+}
+.abt_text h1{
+    font-family: 'Old Standard TT', serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.abt_text h5{
+    font-family: 'Old Standard TT', serif;
+    font-weight: 700;
+    padding-top: 30px;
+   
+}
+/* porfolio part */
+
+#portfolio{
+   background-color: black;
+}
+.row{
+    padding-bottom: 60px;
+}
+.port_text{
+    text-align: center;
+    padding:30px 0;
+}
+.port_text h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: blanchedalmond;
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 2px;
+}
+.port_text p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(46, 43, 43);
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 2px;
+    color: blanchedalmond;
+}
+/* blogs part */
+.blog_head{
+    text-align: center;
+    padding: 30px 0;
+}
+.blog_head h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(12, 11, 10);
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 2px;
+}
+.blog_head p{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(12, 11, 10);
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 2px;
+}
+.blog_head h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(12, 11, 10);
+    font-family: 'Old Standard TT', serif;
+    
+}
+.blog_head h6{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(22, 21, 19);
+    font-family: 'Old Standard TT', serif;
+}
+/* footer part */
+.footer_1 h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(12, 11, 10);
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 2px;
+}
+.footer_1 ul li{
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(12, 11, 10);
+    font-family: 'Old Standard TT', serif;
+    
+}
+.footer_1 ul li:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+  
+}
+#footer{
+    background-color: rgb(207, 188, 165);
+    padding-top: 60px;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.last{
+    background-color: dimgray;
+    padding: 15px 0;
+}
+.last_text{
+   margin-left: 320px;
+}
+.last_text span{
+    color: floralwhite;
+}
